@@ -1,0 +1,5 @@
+Fixed the bug where stocks don't get added to the data bank when clicking on recent dates. 
+
+Built a version of the Mega Screener that works with day 1 gains, day 2 gains, and day 3 gains.
+
+Plan to make the Mega Screener more interactive with the user in the next version.
